@@ -1,6 +1,6 @@
 /*
 
-Theme: Alicia - Slick contemporary multipurpose theme
+Theme: Spyre - Slick contemporary multipurpose theme
 Product Page: https://themes.getbootstrap.com/product/Alicia-slick-contemporary-multipurpose-theme
 Author: Webinning
 Author URI: https://webinning.co.uk
