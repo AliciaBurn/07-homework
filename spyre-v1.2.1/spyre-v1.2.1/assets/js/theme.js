@@ -1033,7 +1033,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 
           return "stack" in r || !i || "number" != typeof Error.stackTraceLimit ? (G = function G(t, e) {
             return "string" == typeof t ? t : "object" != _typeof(e) && "function" != typeof e || void 0 === e.name || void 0 === e.message ? T(e) : e.toString();
-          }, null) : (Q = t, G = e, function (t) {
+          }, null) : (Q = t, G = e, (t) => {
             Error.stackTraceLimit += 6;
 
             try {
